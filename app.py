@@ -145,8 +145,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-    # dataCollection()
-    # compareDate()
-    # os.remove('./pages/')
-    # shutil.rmtree('./pages/')
-    # os.rmdir('./pages/')
