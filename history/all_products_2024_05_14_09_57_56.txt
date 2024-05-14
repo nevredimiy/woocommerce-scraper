@@ -1,0 +1,118 @@
+{'title': 'Алатир у сонці (3г 22мм)', 'price': 650, 'link': 'https://larpradeda.com.ua/product/alatyr-u-sontsi-3h-22mm/'}
+{'title': 'Браслет Радінець. Оберіг на руку (15мм 4г)', 'price': 750, 'link': 'https://larpradeda.com.ua/product/braslet-radinecz-oberig-na-ruku-15mm-4g/'}
+{'title': 'Браслет Радінець. Оберіг на руку (16мм 4г)', 'price': 750, 'link': 'https://larpradeda.com.ua/product/braslet-radinecz-oberig-na-ruku-15mm-4g/'}
+{'title': 'Брелок Чортог Лисиці у Сварожому колі (21г 30мм)', 'price': 3140, 'link': 'https://larpradeda.com.ua/product/brelok-chortoh-lysytsi-u-zvariazhenomu-koli-21h-30mm/'}
+{'title': 'Брелок Щур (22*10*12мм)', 'price': 90, 'link': 'https://larpradeda.com.ua/product/brelok-shchur-22-10-12mm/'}
+{'title': 'Валькнути підвіс. Латунь. 35мм', 'price': 450, 'link': 'https://larpradeda.com.ua/product/valknuty-pidvis-latun-35mm/'}
+{'title': 'Водолій. Знак зодіаку. Срібна підвіска (20мм 3г)', 'price': 1300, 'link': 'https://larpradeda.com.ua/product/vodoliy-znak-zodiaku-sribna-pidviska/'}
+{'title': 'Джгутик. Тонкий срібний ланцюжок (3,4г 50см)', 'price': 470, 'link': 'https://larpradeda.com.ua/product/dzhhutyk-tonkyy-sribnyy-lantsiuzhok-3-4h-50sm/'}
+{'title': 'Зірка Ерцгамми. Срібна підвіска (21*27мм 4гр)', 'price': 860, 'link': 'https://larpradeda.com.ua/product/zirka-ertshammy-sribna-pidviska-21-27mm-4hr/'}
+{'title': 'Золотий браслет Лисячий Хвіст (  3,5мм)', 'price': 38000, 'link': 'https://larpradeda.com.ua/product/zolotyy-braslet-lysiachyy-khvist-3-5mm/'}
+{'title': 'Каблучка Безанта (біжутерія)', 'price': 190, 'link': 'https://larpradeda.com.ua/product/kabluchka-bezanta-bizhuteriia/'}
+{'title': 'Каблучка Весільник  (4.8г)', 'price': 1360, 'link': 'https://larpradeda.com.ua/product/kabluchka-vesilnyk-rozmir-20-4-8h/'}
+{'title': 'Каблучка з камінням – 18,0 розмір (14*10мм)', 'price': 1050, 'link': 'https://larpradeda.com.ua/product/kabluchka-z-kaminniam-14-10mm/'}
+{'title': 'Каблучка Лапка (4г – р16,5)', 'price': 850, 'link': 'https://larpradeda.com.ua/product/kabluchka-lapka-4h-r16-5/'}
+{'title': 'Каблучка Пір’ячко (5,5г)', 'price': 1140, 'link': 'https://larpradeda.com.ua/product/kabluchka-piriachko-5-5h/'}
+{'title': 'Каблучка Уроборос. Размір  22,0 (5г)', 'price': 1920, 'link': 'https://larpradeda.com.ua/product/kabluchka-uroboros-4h/'}
+{'title': 'Квітка папороті (16мм 2,8гр)', 'price': 450, 'link': 'https://larpradeda.com.ua/product/kvitka-paporoti-16mm-2-8hr/'}
+{'title': 'Квітка Папороті та Одолінь-Трава (7,7г 24мм)', 'price': 1600, 'link': 'https://larpradeda.com.ua/product/kvitka-paporoti-ta-odolin-trava-7-7h-24mm/'}
+{'title': 'Кільце Летючий Орел. Латунь.', 'price': 720, 'link': 'https://larpradeda.com.ua/product/kiltse-letiuchyy-orel-latun/'}
+{'title': 'Комплек Безанта. Каблучка і сережки. Біжутерія', 'price': 190, 'link': 'https://larpradeda.com.ua/product/komplek-bezanta-kabluchka-i-serezhky-bizhuteriya/'}
+{'title': 'Конюшина-чотирилистник великий підвіс (27*31мм 5г)', 'price': 800, 'link': 'https://larpradeda.com.ua/product/koniushyna-chotyrylystnyk-velykyy-pidvis-27-31mm-5h/'}
+{'title': 'Кулон Аджна Чакра. Срібна підвіска (14мм 1,6г)', 'price': 390, 'link': 'https://larpradeda.com.ua/product/kulon-adzhna-chakra-sribna-pidviska-14mm-1-6h/'}
+{'title': 'Кулон Вішудха Чакра. Срібна підвіска (14мм 1,5г)', 'price': 390, 'link': 'https://larpradeda.com.ua/product/kulon-vishudkha-chakra-sribna-pidviska-14mm-1-5h/'}
+{'title': 'Кулон Дерево Життя (Дерево Рода) (23мм 3г)', 'price': 610, 'link': 'https://larpradeda.com.ua/product/kulon-derevo-zhyttia-derevo-roda-23mm-3h/'}
+{'title': 'Кулон Свадхістану Чакра. Срібна підвіска (14мм 1,8г)', 'price': 390, 'link': 'https://larpradeda.com.ua/product/kulon-svadkhistanu-chakra-sribna-pidviska-14mm-1-8h/'}
+{'title': 'Ладанка Образ Касперівської Пресвятої Богородиці (2,5*2,0 мм 4 г.)', 'price': 1450, 'link': 'https://larpradeda.com.ua/product/ladanka-obraz-kasperivskoi-presviatoi-bohorodytsi-2-5-2-0-mm-4-h/'}
+{'title': 'Ланцюжок Снейк, Snake, Змійка. Довжина (60см 9,4гр)', 'price': 1300, 'link': 'https://larpradeda.com.ua/product/lanczyuzhok-snejk-snake-zmijka-dovzhyna-60sm-9-4gr/'}
+{'title': 'Ланцюжок Снейк, Snake, Змійка. Довжина 60см. Вага 11,0 грам', 'price': 1320, 'link': 'https://larpradeda.com.ua/product/lantsiuzhok-sneyk-snake-zmiyka-dovzhyna-60sm-vaha-11-0-hram/'}
+{'title': 'Латунь. Вовк у коловраті (23г 35мм)', 'price': 980, 'link': 'https://larpradeda.com.ua/product/latun-vovk-u-kolovrati-23h-35mm/'}
+{'title': 'Молот Тора або Мельнір (6,5г 27*20мм)', 'price': 1350, 'link': 'https://larpradeda.com.ua/product/molot-tora-abo-melnir-6-5h-27-20mm/'}
+{'title': 'Намистина Кельтский вузол (12мм 4г)', 'price': 750, 'link': 'https://larpradeda.com.ua/product/namystyna-keltskyy-vuzol-12mm-4h/'}
+{'title': 'Оберіг Лунниця з гронами (6,5г 23*29мм)', 'price': 1320, 'link': 'https://larpradeda.com.ua/product/oberih-lunnytsia-z-hronamy-6-5h-23-29mm/'}
+{'title': 'Оберіг Молвінець. Біжутерія.', 'price': 160, 'link': 'https://larpradeda.com.ua/product/oberih-molvinets-bizhuteriia/'}
+{'title': 'Оберіг Рожаниця у сонці Срібний (3,5г 22мм)', 'price': 575, 'link': 'https://larpradeda.com.ua/product/oberih-rozhanytsia-u-sontsi-sribnyy-3-5h-22mm/'}
+{'title': 'Обличча Бога Велеса (35 * 40мм 12г)', 'price': 2400, 'link': 'https://larpradeda.com.ua/product/lyk-boha-velesa-35-40mm-12h/'}
+{'title': 'Панцирний ланцюжок. Тонкий срібний ланцюг (7,4г 50см)', 'price': 1030, 'link': 'https://larpradeda.com.ua/product/pantsyrnyy-lantsiuzhok-tonkyy-sribnyy-lantsiuh-7-4h-50sm/'}
+{'title': 'Підвіс Весільник (24мм 5г)', 'price': 800, 'link': 'https://larpradeda.com.ua/product/pidvis-vesilnyk-24mm-5h/'}
+{'title': 'Підвіс Вовчий Крюк (25мм 4,5г)', 'price': 760, 'link': 'https://larpradeda.com.ua/product/pidvis-vovchyy-kriuk-25mm-4-5h/'}
+{'title': 'Підвіс Колядник у сонці (22мм 3,4г)', 'price': 690, 'link': 'https://larpradeda.com.ua/product/pidvis-koliadnyk-u-sontsi-22mm-3-4h/'}
+{'title': 'Підвіс Триглав (Трікветр) 14 мм 1,2 г.', 'price': 280, 'link': 'https://larpradeda.com.ua/product/pidvis-tryhlav-trikvetr-14-mm-1-2-h/'}
+{'title': 'Підвіс Триглав (Трікветр) 24 мм 3,2 м', 'price': 780, 'link': 'https://larpradeda.com.ua/product/pidvis-tryhlav-trikvetr-24-mm-3-2-m/'}
+{'title': 'Підвіс Чортог Щуки Свароже Коло Коляди Дар (7,8г 30мм)', 'price': 1650, 'link': 'https://larpradeda.com.ua/product/pidvis-chortoh-shchuky-svarozhe-kolo-koliady-dar-7-8h-30mm/'}
+{'title': 'Підвіска Ведмедик (15мм 2г)', 'price': 380, 'link': 'https://larpradeda.com.ua/product/pidviska-vedmedyk-15mm-2g/'}
+{'title': 'Підвіска Конячка (16мм 4,5г)', 'price': 880, 'link': 'https://larpradeda.com.ua/product/pidviska-konyachka-16mm-4-5g/'}
+{'title': 'Підвіска Кубик “Live, Love, Laugh” (5,5г 10мм)', 'price': 1100, 'link': 'https://larpradeda.com.ua/product/pidviska-kubyk-live-love-laugh-5-5h-10mm/'}
+{'title': 'Підвіска Літачок (18мм 2г)', 'price': 380, 'link': 'https://larpradeda.com.ua/product/pidviska-litachok-18mm-2g/'}
+{'title': 'Підвіска Лунниця (1,6 г)', 'price': 380, 'link': 'https://larpradeda.com.ua/product/pidviska-lunnytsia-1-6-h/'}
+{'title': 'Підвіска Млин для Штанги (30 мм 11 г)', 'price': 2100, 'link': 'https://larpradeda.com.ua/product/pidviska-blin-dlia-shtanhy-30-mm-12-h/'}
+{'title': 'Підвіска Пентаграма біжутерія', 'price': 90, 'link': 'https://larpradeda.com.ua/product/pidviska-pentahrama-bizhuteriia/'}
+{'title': 'Підвіска Шолом Жаху або Агісхьяльм. Бронза.  Ø 27мм', 'price': 300, 'link': 'https://larpradeda.com.ua/product/pidviska-sholom-zhakhu-abo-ahiskhialm-bronza-o-27mm/'}
+{'title': 'Родований Срібний Ланцюжок Бельцер, Роли або Шопард (55 см 4,7 г.)', 'price': 650, 'link': 'https://larpradeda.com.ua/product/rodovanyy-sribnyy-lantsiuzhok-beltser-roly-abo-shopard-55-sm-4-7-h/'}
+{'title': 'Родований Срібний Ланцюжок Бельцер, Роли або Шопард (60см 5,1г.)', 'price': 710, 'link': 'https://larpradeda.com.ua/product/rodovanyy-sribnyy-lantsiuzhok-beltser-roly-abo-shopard-60sm-5-1h/'}
+{'title': 'Родований Срібний Ланцюжок Бельцер, Роли або Шопард (65 см 5,5 г.)', 'price': 750, 'link': 'https://larpradeda.com.ua/product/rodovanyj-sribnyj-lanczyuzhok-belczer-roly-abo-shopard-65-sm-5-5-g/'}
+{'title': 'Родований Срібний Ланцюжок Бельцер, Роли або Шопард. Довжина 55 см Вага 6.7 грам', 'price': 930, 'link': 'https://larpradeda.com.ua/product/rodovanyy-sribnyy-lantsiuzhok-beltser-roly-abo-shopard-dovzhyna-55-sm-vaha-6-7-hram/'}
+{'title': 'Руна Берегиня у Сварожому Колі (30мм 6г)', 'price': 1250, 'link': 'https://larpradeda.com.ua/product/runa-berehynia-u-svarozhomu-koli-30mm-6h/'}
+{'title': 'Руна Жива у Сварожому Колі (30мм 8,5 гр)', 'price': 1650, 'link': 'https://larpradeda.com.ua/product/runa-zhyva-v-svarozhe-koli-30mm-8-5-hr/'}
+{'title': 'Руна Тейваз (Teiwaz) (25мм 4г)', 'price': 790, 'link': 'https://larpradeda.com.ua/product/runa-teyvaz-teiwaz-25mm-4h/'}
+{'title': 'Сережки Безанта (біжутерія)', 'price': 210, 'link': 'https://larpradeda.com.ua/product/serezhky-bezanta-bizhuteriya/'}
+{'title': 'Сережки-гвоздики  Нескінченність (2,4г 11мм)', 'price': 490, 'link': 'https://larpradeda.com.ua/product/serezhky-hvozdyky-neskinchennist-2-4h-11mm/'}
+{'title': 'Сережки-гвоздики  Паралелепіпед (2г 9мм)', 'price': 420, 'link': 'https://larpradeda.com.ua/product/serezhky-hvozdyky-paralelepiped-2h-9mm/'}
+{'title': 'Сережки-гвоздики  Серце (3,4г 9мм)', 'price': 690, 'link': 'https://larpradeda.com.ua/product/serezhky-hvozdyky-sertse-3-4h-9mm/'}
+{'title': 'Сережки-гвоздики Валькнут (2,6г 10мм)', 'price': 520, 'link': 'https://larpradeda.com.ua/product/serezhky-hvozdyky-valknut-2-6h-10mm/'}
+{'title': 'Сережки-гвоздики Еллоромбус (2г 9мм)', 'price': 440, 'link': 'https://larpradeda.com.ua/product/serezhky-hvozdyky-ellorombus-2h-9mm/'}
+{'title': 'Сережки-гвоздики Трикутник (3,7 г 8мм)', 'price': 750, 'link': 'https://larpradeda.com.ua/product/serezhky-hvozdyky-trykutnyk-3-7-h-8mm/'}
+{'title': 'Сережки-гвоздики Хрест (4,5г)', 'price': 850, 'link': 'https://larpradeda.com.ua/product/serezhky-hvozdyky-khrest-4-5h/'}
+{'title': 'Символ Велеса (3г 20мм)', 'price': 750, 'link': 'https://larpradeda.com.ua/product/symvol-velesa-3g-20mm/'}
+{'title': 'Символ Зайчик. Оберіг для дітей. (15мм. 1,1 грам)', 'price': 290, 'link': 'https://larpradeda.com.ua/product/symvol-zaychyk-oberih-dlia-ditey-15mm-1-1-hram/'}
+{'title': 'Срібна каблучка з руною Хагалаз (Hagalaz) ᚺ – Розмір 18,8', 'price': 1100, 'link': 'https://larpradeda.com.ua/product/sribna-kabluchka-z-runoiu-khahalaz-hagalaz/'}
+{'title': 'Срібна каблучка Корона. Розмір 17,5 (7мм 2,6г)', 'price': 580, 'link': 'https://larpradeda.com.ua/product/sribna-kabluchka-korona-7mm-2-5h/'}
+{'title': 'Срібна каблучка руна Еваз или Ехваз (ᛖ) – Розмір 18,8', 'price': 1100, 'link': 'https://larpradeda.com.ua/product/sribna-kabluchka-runa-evaz-yly-ekhvaz/'}
+{'title': 'Срібна каблучка руна Наудіз или Наутіз (ᚾ) – Розмір 18,5', 'price': 1100, 'link': 'https://larpradeda.com.ua/product/sribna-kabluchka-runa-naudiz-yly-nautiz/'}
+{'title': 'Срібна намистина Кат (5г)', 'price': 1160, 'link': 'https://larpradeda.com.ua/product/sribna-namystyna-kat-5h/'}
+{'title': 'Срібна намистина Лицар-Хрестоносець (7г)', 'price': 1480, 'link': 'https://larpradeda.com.ua/product/sribna-namystyna-lyczar-hrestonosecz-7g/'}
+{'title': 'Срібна намистина Партизан (5,5г)', 'price': 850, 'link': 'https://larpradeda.com.ua/product/sribna-namystyna-partyzan-5-5h/'}
+{'title': 'Срібна намистини з хрестами', 'price': 320, 'link': 'https://larpradeda.com.ua/product/sribna-namystyny-z-khrestamy/'}
+{'title': 'Срібна підвіска Лунниця (23мм 4,5г)', 'price': 950, 'link': 'https://larpradeda.com.ua/product/sribna-pidviska-lunnytsia-23mm-4-5h/'}
+{'title': 'Срібна підвіска Риби (6,6г 27мм)', 'price': 1320, 'link': 'https://larpradeda.com.ua/product/sribna-pidviska-ryby-6-6h-27mm/'}
+{'title': 'Срібний Кулон Інь-Ян (Інь-Янь) Дерево Життя (вага 9,5 гр. 30 мм)', 'price': 1950, 'link': 'https://larpradeda.com.ua/product/sribnyy-kulon-in-yan-in-yan-derevo-zhyttia-vaha-9-5-hr-30-mm/'}
+{'title': 'Срібний ланцюг. Якірне плетіння 55 см 3,61 гр', 'price': 320, 'link': 'https://larpradeda.com.ua/product/sribna-lantsiuh-yakirne-pletinnia-55-sm-3-61-hr/'}
+{'title': 'Срібний Ланцюжок Бельцер або Шопард (2,5 г. 55 см)', 'price': 400, 'link': 'https://larpradeda.com.ua/product/sribnyy-lantsiuzhok-beltser-abo-shopard-2-3-h-50-sm-2/'}
+{'title': 'Срібний ланцюжок Бісмарк Струмочок 55 см 38 гр', 'price': 5320, 'link': 'https://larpradeda.com.ua/product/sribnyy-lantsiuzhok-bismark-strumochok-55-sm-38-hr/'}
+{'title': 'Срібний ланцюжок Якірний 6,4гр 60см', 'price': 550, 'link': 'https://larpradeda.com.ua/product/sribnyy-lantsiuzhok-yakirnyy-7-7hr-60sm/'}
+{'title': 'Срібний ланцюжок Якірний 7,7гр 60см', 'price': 550, 'link': 'https://larpradeda.com.ua/product/sribnyj-lanczyuzhok-yakirnyj-7-7gr-60sm/'}
+{'title': 'Срібний Меч (1,2г 31мм)', 'price': 320, 'link': 'https://larpradeda.com.ua/product/sribnyy-mech-1-2h-31mm/'}
+{'title': 'Срібний оберіг Валькнут (10,5 г 30мм)', 'price': 1850, 'link': 'https://larpradeda.com.ua/product/sribnyy-oberih-valknut-10-5-h-30mm/'}
+{'title': 'Срібний оберіг Валькнут (24мм 7,5г)', 'price': 1450, 'link': 'https://larpradeda.com.ua/product/sribnyy-oberih-valknut-24mm-7-5h/'}
+{'title': 'Срібний оберіг Коловрат ( Ø 29 мм, Вага 13 грам)', 'price': 2600, 'link': 'https://larpradeda.com.ua/product/sribnyy-oberih-kolovrat-o-29-mm-vaha-13-hram/'}
+{'title': 'Срібний оберіг Коловрат ( Ø25мм, 4г)', 'price': 860, 'link': 'https://larpradeda.com.ua/product/sribnyy-oberih-kolovrat-o25mm-4h/'}
+{'title': 'Срібний перстень Череп Наві.', 'price': 2200, 'link': 'https://larpradeda.com.ua/product/sribnyy-persten-cherep-navi/'}
+{'title': 'Срібний підвіс Дерево Життя та Алатир. Древо Рода (13г 29мм)', 'price': 1900, 'link': 'https://larpradeda.com.ua/product/sribnyy-pidvis-derevo-zhyttia-ta-alatyr-drevo-roda-13h-29mm/'}
+{'title': 'Срібний підвіс Коловрат (31мм 11г)', 'price': 2400, 'link': 'https://larpradeda.com.ua/product/sribnyy-pidvis-kolovrat-31mm-11h/'}
+{'title': 'Срібний підвіс Мопс  (1,3г 14*15мм)', 'price': 350, 'link': 'https://larpradeda.com.ua/product/sribnyy-pidvis-mops-1-3h-14-15mm/'}
+{'title': 'Срібний хрест зі святими (27*16мм 3,8г)', 'price': 840, 'link': 'https://larpradeda.com.ua/product/sribnyy-khrest-zi-sviatymy-27-16mm-3-8h/'}
+{'title': 'Срібний хрест із камінням (30*18мм 2,9г)', 'price': 820, 'link': 'https://larpradeda.com.ua/product/sribnyy-khrest-iz-kaminniam-30-18mm-2-9h/'}
+{'title': 'Срібний хрест католицький (1,3г 2.7*1.7см)', 'price': 340, 'link': 'https://larpradeda.com.ua/product/sribnyy-khrest-katolytskyy-1-3h-2-7-1-7sm/'}
+{'title': 'Срібний хрест католицький (2,6г 3.5*2см)', 'price': 540, 'link': 'https://larpradeda.com.ua/product/sribnyy-khrest-katolytskyy-2-6h-3-5-2sm/'}
+{'title': 'Срібний хрест католицький (2,6г 3*2см)', 'price': 620, 'link': 'https://larpradeda.com.ua/product/sribnyy-khrest-katolytskyy-2-6h-3-2sm/'}
+{'title': 'Срібний хрест католицький (3,8г 4,2*2,3см)', 'price': 770, 'link': 'https://larpradeda.com.ua/product/sribnyy-khrest-katolytskyy-3-8h-4-2-2-3sm/'}
+{'title': 'Срібний хрест. Католицький  (25*17мм 2,4г)', 'price': 590, 'link': 'https://larpradeda.com.ua/product/sribnyj-hrest-katolyczkyj-25-17mm-2-4g/'}
+{'title': 'Срібні Намистини з рунами Футарк', 'price': 550, 'link': 'https://larpradeda.com.ua/product/sribni-namystyny-z-runamy-futark/'}
+{'title': 'Срібні сережки Серце зі вставками (20*15мм 6г)', 'price': 1370, 'link': 'https://larpradeda.com.ua/product/sribni-serezhky-sertse-zi-vstavkamy-20-15mm-6h/'}
+{'title': 'Срібні сережки-кільця (конго) (2,8г ⌀27мм)', 'price': 680, 'link': 'https://larpradeda.com.ua/product/sribni-serezhky-kiltsia-konho-2-8h-27mm/'}
+{'title': 'Хрест Лади-Богородиці або Ладінець (22мм 2,8 гр)', 'price': 600, 'link': 'https://larpradeda.com.ua/product/khrest-lady-bohorodytsi-abo-ladinets-22mm-2-8-hr/'}
+{'title': 'Хрест Лади-Богородиці або Ладінець з вушком Зірка Лади', 'price': 850, 'link': 'https://larpradeda.com.ua/product/khrest-lady-bohorodytsi-abo-ladinets-z-vushkom-zirky-lady/'}
+{'title': 'Чортог Діви (17мм 2,2г)', 'price': 475, 'link': 'https://larpradeda.com.ua/product/chortoh-divy-17mm-2-2h/'}
+{'title': 'Чортог Діви у Сварожому Колі Коляди Дар (30мм 8г)', 'price': 1650, 'link': 'https://larpradeda.com.ua/product/chortoh-divy-u-svarozhomu-koli-koliady-dar-30mm-8h/'}
+{'title': 'Чортог Коня срібний підвіс (2гр. 18мм)', 'price': 475, 'link': 'https://larpradeda.com.ua/product/chertoh-konia-sribnyy-pidvis-2hr-18mm/'}
+{'title': 'Чортог Коня у Сварожому Колі Коляди Дар (30мм 8г)', 'price': 1650, 'link': 'https://larpradeda.com.ua/product/chortoh-konia-u-svarozhomu-koli-koliady-dar-30mm-8h/'}
+{'title': 'Чортог Лебідя (25 мм 4,8гр)', 'price': 980, 'link': 'https://larpradeda.com.ua/product/chertoh-lebedia-25-mm-4-8hr/'}
+{'title': 'Чортог Лисиці у зваряженому колі (18г 30мм)', 'price': 2790, 'link': 'https://larpradeda.com.ua/product/chortoh-lysytsi-u-zvariazhenomu-koli-18h-30mm/'}
+{'title': 'Чортог Лося у Сварожому Колі Коляди Дар (30мм 8,5г)', 'price': 1650, 'link': 'https://larpradeda.com.ua/product/chortoh-losia-svarozhe-kolo-koliady-dar-30mm-8-5h/'}
+{'title': 'Чортог Орла (17мм 2г)', 'price': 475, 'link': 'https://larpradeda.com.ua/product/chortoh-orla-17mm-2h/'}
+{'title': 'Чортог Раса і Алатир (35мм 18 гр)', 'price': 2800, 'link': 'https://larpradeda.com.ua/product/chertoh-rasa-i-alatyr-35mm-18-hr/'}
+{'title': 'Чортог Раса у Сварожому Колі Коляди Дар (8г 30мм)', 'price': 1650, 'link': 'https://larpradeda.com.ua/product/chertoh-rasa-u-svarozhomu-koli-koliady-dar-8h-30mm/'}
+{'title': 'Чортог Фініста (15мм 1,4г)', 'price': 290, 'link': 'https://larpradeda.com.ua/product/chortoh-finista-15mm-1-4h/'}
+{'title': 'Шкіряний Шнурок “Господи спаси і сохрани мя” з п’ятью вставками (4 мм 11,5 гр)', 'price': 1600, 'link': 'https://larpradeda.com.ua/product/shkirianyy-shnurok-hospody-spasy-i-sokhrany-mia-z-piatiu-vstavkamy-4-mm-11-5-hr/'}
+{'title': 'Шовковий Шнурок “Господи спаси і сохрани мя” з п’ятьма вставками (4 мм 11,5 гр)', 'price': 1500, 'link': 'https://larpradeda.com.ua/product/shovkovyy-shnurok-hospody-spasy-i-sokhrany-mia-z-piatma-vstavkamy-4-mm-11-5-hr/'}
+{'title': 'Шовковий шнурок Купола 3,8гр', 'price': 530, 'link': 'https://larpradeda.com.ua/product/shovkovyy-shnurok-kupola-3-8hr/'}
